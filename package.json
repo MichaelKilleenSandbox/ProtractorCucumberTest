@@ -1,0 +1,21 @@
+{
+  "name": "protractorcucumbertest",
+  "version": "1.0.0",
+  "description": "Test of Protractor",
+  "main": "apex-module-tests-specs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Killeen",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "chai-string": "^1.2.0",
+    "cucumber": "^1.2.1",
+    "minimatch": "^3.0.2",
+    "protractor-cucumber": "^0.1.8",
+    "protractor-hotkeys": "0.0.5",
+    "tough-cookie": "^2.3.1"
+  }
+}

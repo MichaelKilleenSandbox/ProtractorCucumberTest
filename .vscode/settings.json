@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+        //-------- ESLint configuration --------
+
+    // Control whether eslint is enabled for JavaScript files or not.
+    "eslint.enable": false,
+
+    // The eslint options object to provide args to the eslint command.
+    "eslint.options": {},
+
+    // Traces the communication between VSCode and the eslint linter service.
+    "eslint.trace.server": "off",
+
+}
